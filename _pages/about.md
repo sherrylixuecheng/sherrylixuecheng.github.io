@@ -12,5 +12,6 @@ I'm currently a PhD candidate of theoretical chemistry in California Institute o
 I am interested in the interdisciplinary research between chemistry, physics, biology, and computer sciences, and passionate about bridging the mind gaps between different areas. Her current research focuses on AI for chemistry, including molecular modelling by Molecular Orbital-Based Machine Learning (MOB-ML) method for electronic structure, and nucleic acid secondary structure modelling with machine learning and molecular dynamics tools (INSPIRE).
 
 
-## My Family
+**My Family**
+
 Please also check out the page of my fiancé and collaborator (MOB-ML), [Jiace Sun](https://susyustc.github.io).
