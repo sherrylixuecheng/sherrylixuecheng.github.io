@@ -7,8 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a third-year Ph.D student in the Division of Chemistry and Chemical Engineering at California Institute of Technology (Caltech).
-I earned my B.S. in Physics from University of Science and Technology of China.
-My research interests including development of electronic structure algorithms and machine learning methods, while my current research is combining them together.
-I loving mathematics and coding a lot, as well as using them to solve real-world problems.
+Lixue Cheng (Sherry) is currently a PhD candidate of theoretical chemistry in California Institute of Technology working with Prof. Thomas F. Miller III. Sherry received a Bachelor of Science degree with quadruple majors in Chemistry, Math, Biochemistry, and Molecular Biology and a minor in Computer Science from University of Wisconsin-Madison in 2016. She started her graduate studies in California Institute of Technology with a Caltech graduate student fellowship in 2017.
+She is interested in the interdisciplinary research between chemistry, physics, biology, and computer sciences, and passionate about bridging the mind gaps between different areas. Her current research focuses on AI for chemistry, including molecular modelling by Molecular Orbital-Based Machine Learning (MOB-ML) method for electronic structure, and nucleic acid secondary structure modelling with machine learning and molecular dynamics tools (INSPIRE).
