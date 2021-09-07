@@ -6,54 +6,26 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCheng_Resume.pdf) 
+
 
 <!---
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry (H), Math (H), Biochemistry, Molecular Biology, University of Wisconsin-Madison, 2016
+* Ph.D in Theoretical, California Institute of Technology, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2021– September 2021: Research Intern
+  * Tencent Quantum Lab, Tencent
+  * Duties: (1) Work on the interface between machine learning and physical problems, including molecular modeling, drug design and material design. (2) Develop, implement and test Bayesian learning algorithm in real world problems in the fields of biology, chemistry and material sciences.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* September 2014–January 2015: Research Assistant
+  * Sonoco Products Co., 455 Science Drive, Madison, WI
+  * Duties included: (1) Measure geometries and properties of different materials and perform mathematical modeling of the products. (2) Analyzing data using various software, for example, Excel, Auto CAD, FEA. (3) Develop test devices and search the literature to support our own research projects
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Please refere to the Publication page
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
