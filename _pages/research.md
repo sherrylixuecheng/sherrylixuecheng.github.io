@@ -5,7 +5,7 @@ permalink: /research/
 excerpt: "Research"
 author_profile: true
 ---
-I'm currently working with [Prof. Thomas F. Miller III](https://millergroup.caltech.edu/Miller_Group/Home.html) @ [CCE, Caltech](http://cce.caltech.edu/) on AI for chemistry. There are several on-going projects I'm working on:
+I'm currently working with [Prof. Thomas F. Miller III](https://millergroup.caltech.edu/Miller_Group/Home.html/) @ [CCE, Caltech](http://cce.caltech.edu/) on AI for chemistry. There are several on-going projects I'm working on:
 
 ## MOB-ML:
 
