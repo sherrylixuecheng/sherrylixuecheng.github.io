@@ -2,6 +2,7 @@
 layout: archive
 title: "Talks"
 permalink: /talks/
+excerpt: "Talks"
 author_profile: true
 ---
 
