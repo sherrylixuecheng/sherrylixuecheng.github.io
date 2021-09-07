@@ -12,7 +12,7 @@ author_profile: true
 
 ## Publications:
 
-[1] DiRisio, R. J.*; **Cheng, L.***; Boyer, M. A.; Finney, J. M.; Lu, F.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Near ab initio potential energy surfaces for diffusion monte carlo using machine learning. In submission to *J. Phys. Chem. A*, **2021**. (*co-first author)
+[1] DiRisio, R. J.</sup>*</sup>; **Cheng, L.</sup>*</sup>**; Boyer, M. A.; Finney, J. M.; Lu, F.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Near ab initio potential energy surfaces for diffusion monte carlo using machine learning. In submission to *J. Phys. Chem. A*, **2021**. (*co-first author)
 
 [2] Husch, T.; Sun, J.; **Cheng, L.**; Lee, S. J. R.; Miller III, T.F. Improved accuracy and transferability of molecular-orbital-based machine learning: Organics, transition-metal complexes, non-covalent interactions, and transition states. *J. Chem. Phys.*, **2021**. [Link](https://aip.scitation.org/doi/abs/10.1063/5.0032362)
 
