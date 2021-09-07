@@ -12,7 +12,7 @@ The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCh
 Education
 ======
 * B.S. in Chemistry (H), Math (H), Biochemistry, Molecular Biology, University of Wisconsin-Madison, 2016
-* Ph.D in Theoretical, California Institute of Technology, 2022 (expected)
+* Ph.D in Theoretical chemistry, California Institute of Technology, 2022 (expected)
 
 Work experience
 ======
