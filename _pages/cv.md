@@ -9,7 +9,6 @@ redirect_from:
 The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCheng_Resume.pdf) 
 
 
-<!---
 Education
 ======
 * B.S. in Chemistry (H), Math (H), Biochemistry, Molecular Biology, University of Wisconsin-Madison, 2016
