@@ -12,9 +12,7 @@ author_profile: true
 
 ## Publications:
 
-[1] **Cheng, L.**., Sun, J. & Miller III, T. F. Improved accuracy of molecular energy
-learning via unsupervised clustering for organic chemical space with
-molecular-orbital-based machine learning. In preparation.
+[1] Sun, J.; **Cheng, L.**; Miller III, T.F. Molecular energy learning using alternative blackbox matrix-matrix multiplication (AltBBMM) algorithm for exact Gaussian process. arXiv:2109.09817 (2021). (Accepted for presentation at the NeurIPS 2021 AI for Science Workshop) [Link](https://openreview.net/pdf?id=lyJ9BRKUzms)
 
 [2] DiRisio, R. J.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; Finney, J. M.; Boyer, M. A.; Lu, F.; Moonkaen, P.; Sun, J.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Near ab initio potential energy surfaces for diffusion monte carlo using machine learning. In submission to *J. Phys. Chem. A*, **2022**. (*co-first author)
 
@@ -30,11 +28,13 @@ molecular-orbital-based machine learning. In preparation.
 
 ## In submission/preparation:
 
-[1] **Cheng, L.**; Sun, J.; Miller III, T.F. Unsupervised clustering of chemical space with molecular-orbital-based features. In preparation.
+[1] **Cheng, L.**., Sun, J. & Miller III, T. F. Improved accuracy of molecular energy
+learning via unsupervised clustering for organic chemical space with
+molecular-orbital-based machine learning. In preparation.
 
-[2] Sun, J.; **Cheng, L.**; Miller III, T.F. Molecular energy learning using alternative blackbox matrix-matrix multiplication (AltBBMM) algorithm for exact Gaussian process. In preparation.
+[2] **Cheng, L.**; Yang, Z.; Liao, B.; Hsieh, C.; Zhang, S. ODBO: Bayesian Optimization with Prescreening for Directed Protein Evolution. In preparation.
 
-[3] **Cheng, L.**; Yang, Z.; Hsieh, C. Bayesian optimization with outlier detection for high fitness mutation searching for protein G domain B1. In preparation.
+[3] Sun, J.; **Cheng, L.**; Miller III, T.F. Machine learning for dipole moments with scalable Gaussian process and derivative kernels with molecular-orbital-based representation. In preparation.
 
 ## Patent:
 
