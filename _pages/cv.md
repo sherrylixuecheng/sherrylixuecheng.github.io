@@ -12,13 +12,17 @@ The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCh
 Education
 ======
 * B.S. in Chemistry (H), Math (H), Biochemistry, Molecular Biology, University of Wisconsin-Madison, 2016
-* Ph.D in Theoretical chemistry, California Institute of Technology, 2022 (expected)
+* Ph.D in Theoretical chemistry, California Institute of Technology, 2022
 
 Work experience
 ======
-* July 2021– September 2021: Research Intern
+* June 2022-:   Research Scientist
   * Tencent Quantum Lab, Tencent
   * Duties: (1) Work on the interface between machine learning and physical problems, including molecular modeling, drug design and material design. (2) Develop, implement and test Bayesian learning algorithm in real world problems in the fields of biology, chemistry and material sciences.
+
+
+* July 2021– September 2021: Research Intern
+  * Tencent Quantum Lab, Tencent
 
 * September 2014–January 2015: Research Assistant
   * Sonoco Products Co., 455 Science Drive, Madison, WI
@@ -26,5 +30,5 @@ Work experience
 
 Publications
 ======
-Please refere to the Publication page
+Please refer to the Publication page
   
