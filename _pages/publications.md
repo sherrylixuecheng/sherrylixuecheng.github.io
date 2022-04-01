@@ -12,7 +12,7 @@ author_profile: true
 
 ## Publications:
 
-[1] Cheng, L., Sun, J. & Miller III, T. F. Improved accuracy of molecular energy
+[1] **Cheng, L.**., Sun, J. & Miller III, T. F. Improved accuracy of molecular energy
 learning via unsupervised clustering for organic chemical space with
 molecular-orbital-based machine learning. In preparation.
 
