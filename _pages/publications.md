@@ -32,7 +32,7 @@ author_profile: true
 learning via unsupervised clustering for organic chemical space with
 molecular-orbital-based machine learning. In preparation.
 
-[2] **Cheng, L.**; Yang, Z.; Liao, B.; Hsieh, C.; Zhang, S. ODBO: Bayesian Optimization with Prescreening for Directed Protein Evolution. In preparation.
+[2] **Cheng, L.**; Yang, Z.; Liao, B.; Hsieh, C.; Zhang, S. ODBO: Bayesian Optimization with prescreening for directed protein evolution. In preparation.
 
 [3] Sun, J.; **Cheng, L.**; Miller III, T.F. Machine learning for dipole moments with scalable Gaussian process and derivative kernels with molecular-orbital-based representation. In preparation.
 
