@@ -12,9 +12,7 @@ author_profile: true
 
 ## Publications:
 
-[1] **Cheng, L.**., Sun, J. & Miller III, T. F. Improved accuracy of molecular energy
-learning via unsupervised clustering for organic chemical space with
-molecular-orbital-based machine learning. arXiv:2204.09831 (2022).
+[1] **Cheng, L.**., Sun, J. & Miller III, T. F. Accurate molecular-orbital-based machine learning energies via unsupervised clustering of chemical space. arXiv:2204.09831 (2022). [Link](https://arxiv.org/abs/2204.09831)
 
 [2] Sun, J.; **Cheng, L.**; Miller III, T.F. Molecular energy learning using alternative blackbox matrix-matrix multiplication (AltBBMM) algorithm for exact Gaussian process. arXiv:2109.09817 (2021). (Accepted for presentation at the NeurIPS 2021 AI for Science Workshop) [Link](https://openreview.net/pdf?id=lyJ9BRKUzms)
 
