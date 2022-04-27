@@ -20,8 +20,11 @@ Quantum simulation is a is a powerful tool for chemists to understand the chemic
 
 [3] Cheng, L.; Welborn, M.; Miller III, T. F. A universal density matrix functional from molecular orbital-based machine learning: Transferability across organic molecules. J. Chem. Phys., 2019. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00636)
 
-[4] Welborn, M.; Cheng, L.; Miller III, T. F. Transferability in machine learning for electronic structure via the molecular orbital basis. J. Chem. Theory Comput. 2018.[Link](https://aip.scitation.org/doi/full/10.1063/1.5088393) (Highlighted with commentary in [C&EN](https://cen.acs.org/physical-chemistry/computational-chemistry/Machine-learning-predicts-electronic-properties/96/web/2018/08) and [Caltech News](http://www.caltech.edu/news/researchers-put-ai-work-making-chemistry-predictions-83357))
+[4] Welborn, M.; Cheng, L.; Miller III, T. F. Transferability in machine learning for electronic structure via the molecular orbital basis. J. Chem. Theory Comput. 2018. [Link](https://aip.scitation.org/doi/full/10.1063/1.5088393) (Highlighted with commentary in [C&EN](https://cen.acs.org/physical-chemistry/computational-chemistry/Machine-learning-predicts-electronic-properties/96/web/2018/08) and [Caltech News](http://www.caltech.edu/news/researchers-put-ai-work-making-chemistry-predictions-83357))
 
 
 ## INSPIRE
 Predict the thermaldynamics properties of nucleic acids using their secondary structures.
+
+## ODBO: Bayesian Optimization with prescreening for directed protein evolution
+
