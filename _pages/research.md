@@ -26,5 +26,5 @@ Quantum simulation is a is a powerful tool for chemists to understand the chemic
 ## INSPIRE
 Predict the thermaldynamics properties of nucleic acids using their secondary structures.
 
-## ODBO: Bayesian Optimization with prescreening for directed protein evolution
-
+## Bayesian Optimization for experimental design
+[1] **Cheng, L.**<sup>\*</sup>; Yang, Z<sup>\*</sup>; Liao, B; Hsieh, C; Zhang, S. ODBO: Bayesian optimization with search space prescreening for directed protein evolution. In submission
