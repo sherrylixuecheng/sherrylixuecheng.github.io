@@ -18,9 +18,9 @@ author_profile: true
 
 [8] **Cheng, L.**., Sun, J. & Miller III, T. F. Accurate molecular-orbital-based machine learning energies via unsupervised clustering of chemical space. arXiv:2204.09831 (2022). [Link](https://arxiv.org/abs/2204.09831)
 
-[7] Sun, J.; **Cheng, L.**; Miller III, T. F. Molecular energy learning using alternative blackbox matrix-matrix multiplication (AltBBMM) algorithm for exact Gaussian process. arXiv:2109.09817 (2021). (Accepted for presentation at the NeurIPS 2021 AI for Science Workshop) [Link](https://openreview.net/pdf?id=lyJ9BRKUzms)
+[7] Lu, F.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; DiRisio, R. J.<sup>\*</sup>; Finney, J. M.; Boyer, M. A.; Lu, F.; Moonkaen, P.; Sun, J.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Fast near ab initio potential energy surfaces using machine learning. *J. Phys. Chem. A*, **2022**. (*co-first author)[Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.2c02243)
 
-[6] Lu, F.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; DiRisio, R. J.<sup>\*</sup>; Finney, J. M.; Boyer, M. A.; Lu, F.; Moonkaen, P.; Sun, J.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Fast near ab initio potential energy surfaces using machine learning. *J. Phys. Chem. A*, **2022**. (*co-first author)[Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.2c02243)
+[6] Sun, J.; **Cheng, L.**; Miller III, T. F. Molecular energy learning using alternative blackbox matrix-matrix multiplication (AltBBMM) algorithm for exact Gaussian process. arXiv:2109.09817 (2021). (Accepted for presentation at the NeurIPS 2021 AI for Science Workshop) [Link](https://openreview.net/pdf?id=lyJ9BRKUzms)
 
 [5] Husch, T.; Sun, J.; **Cheng, L.**; Lee, S. J. R.; Miller III, T. F. Improved accuracy and transferability of molecular-orbital-based machine learning: Organics, transition-metal complexes, non-covalent interactions, and transition states. *J. Chem. Phys.*, **2021**. [Link](https://aip.scitation.org/doi/abs/10.1063/5.0032362)
 
