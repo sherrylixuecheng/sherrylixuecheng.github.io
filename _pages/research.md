@@ -14,7 +14,7 @@ Quantum simulation is a is a powerful tool for chemists to understand the chemic
 
 **Selected publications:**
 
-[1]  DiRisio, R. J.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; Finney, J. M.; Boyer, M. A.; Lu, F.; Moonkaen, P.; Sun, J.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Near ab initio potential energy surfaces for diffusion monte carlo using machine learning. In submission to *J. Phys. Chem. A*, **2022**. (*co-first author)
+[1]  Lu, F.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; DiRisio, R. J.<sup>\*</sup>; Finney, J. M.; Boyer, M. A.; Lu, F.; Moonkaen, P.; Sun, J.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Fast near ab initio potential energy surfaces using machine learning. *J. Phys. Chem. A*, **2022**. (*co-first author) [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.2c02243)
 
 [2] Cheng, L.; Kovachki, N; Welborn, M.; Miller III, T. F. Regression clustering for improved accuracy and training costs with molecular-orbital-based machine learning. J. Chem. Theory Comput., 2019. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00884)
 

@@ -16,9 +16,9 @@ author_profile: true
 
 [9] **Cheng, L.**; Yang, Z.; Liao, B.; Hsieh, C.; Zhang, S. ODBO: Bayesian Optimization with prescreening for directed protein evolution. arXiv:2205.09548 (2022). [Link](https://arxiv.org/abs/2205.09548)
 
-[8] **Cheng, L.**., Sun, J. & Miller III, T. F. Accurate molecular-orbital-based machine learning energies via unsupervised clustering of chemical space. arXiv:2204.09831 (2022). [Link](https://arxiv.org/abs/2204.09831)
+[8] **Cheng, L.**, Sun, J. & Miller III, T. F. Accurate molecular-orbital-based machine learning energies via unsupervised clustering of chemical space. arXiv:2204.09831 (2022). [Link](https://arxiv.org/abs/2204.09831)
 
-[7] Lu, F.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; DiRisio, R. J.<sup>\*</sup>; Finney, J. M.; Boyer, M. A.; Lu, F.; Moonkaen, P.; Sun, J.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Fast near ab initio potential energy surfaces using machine learning. *J. Phys. Chem. A*, **2022**. (*co-first author)[Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.2c02243)
+[7] Lu, F.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; DiRisio, R. J.<sup>\*</sup>; Finney, J. M.; Boyer, M. A.; Moonkaen, P.; Sun, J.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Fast near ab initio potential energy surfaces using machine learning. *J. Phys. Chem. A*, **2022**. (*co-first author) [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.2c02243)
 
 [6] Sun, J.; **Cheng, L.**; Miller III, T. F. Molecular energy learning using alternative blackbox matrix-matrix multiplication (AltBBMM) algorithm for exact Gaussian process. arXiv:2109.09817 (2021). (Accepted for presentation at the NeurIPS 2021 AI for Science Workshop) [Link](https://openreview.net/pdf?id=lyJ9BRKUzms)
 
@@ -28,13 +28,13 @@ author_profile: true
 
 [3] **Cheng, L.**; Welborn, M.; Miller III, T. F. A universal density matrix functional from molecular orbital-based machine learning: Transferability across organic molecules. *J. Chem. Phys.*, **2019**. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00636)
 
-[2] Welborn, M.; **Cheng, L.**; Miller III, T. F. Transferability in machine learning for electronic structure via the molecular orbital basis. *J. Chem. Theory Comput.*, **2018**.[Link](https://aip.scitation.org/doi/full/10.1063/1.5088393) (Highlighted with commentary in [C&EN](https://cen.acs.org/physical-chemistry/computational-chemistry/Machine-learning-predicts-electronic-properties/96/web/2018/08) and [Caltech News](http://www.caltech.edu/news/researchers-put-ai-work-making-chemistry-predictions-83357))
+[2] Welborn, M.; **Cheng, L.**; Miller III, T. F. Transferability in machine learning for electronic structure via the molecular orbital basis. *J. Chem. Theory Comput.*, **2018**. [Link](https://aip.scitation.org/doi/full/10.1063/1.5088393) (Highlighted with commentary in [C&EN](https://cen.acs.org/physical-chemistry/computational-chemistry/Machine-learning-predicts-electronic-properties/96/web/2018/08) and [Caltech News](http://www.caltech.edu/news/researchers-put-ai-work-making-chemistry-predictions-83357))
 
 [1] Knowles, D. B.; Shkel, I. A.; Phan, N. M.; Sternke, M.; Lingeman, E.; Cheng, X.; **Cheng, L.**; O’Connor, K.; Record, M. T. Chemical interactions of polyethylene glycols (PEGs) and glycerol with protein functional groups: Applications to effects of PEG and glycerol on protein processes. *Biochemistry*, **2015**, 54 (22), 3528–3542. [Link](https://pubs.acs.org/doi/10.1021/acs.biochem.5b00246)
 
 ## In submission/preparation:
 
-[1] **Cheng, L.**; Sun, J.; Deustua, J. E.; Bhethanabotla, V. C.; Miller III, T. F. Molecular-orbital-based machine learning for general ground state electronic structure theories with kernel addition Gaussian process regression: closed-shell and open-shell systems. In preparation.
+[1] **Cheng, L.**; Sun, J.; Bhethanabotla, V. C.; Miller III, T. F. Molecular-orbital-based machine learning for general ground state electronic structure theories with kernel addition Gaussian process regression: closed-shell and open-shell systems. In preparation.
 
 ## Patent:
 
