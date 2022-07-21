@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCheng_Resume.pdf)
-(updated in Mar, 2022)
+(updated in July, 2022)
 
 Education
 ======
@@ -17,7 +17,7 @@ With Prof. Thomas F. Miller, III.
 
 Work experience
 ======
-* June 2022-:   Research Scientist
+* July 2022-:   Research Scientist
   * Tencent Quantum Lab, Tencent
 
 * July 2021– September 2021: Research Intern
