@@ -14,7 +14,7 @@ author_profile: true
 
 [11] **Cheng, L.**; Sun, J.; Deustua, J. E.; Bhethanabotla, V. C.; Miller III, T. F. Molecular-orbital-based machine learning for open-shell and multi-reference systems with kernel addition Gaussian process regression. arXiv:2207.08317 (2022). [Link](https://arxiv.org/abs/2207.08317)
 
-[10] Sun, J.; **Cheng, L.**; Miller III, T. F. Molecular dipole moment learning via rotationally equivariant Gaussian process regression with derivatives in molecular-orbital-based machine learning. arXiv:2205.15510 (2022). [Link](https://arxiv.org/abs/2205.15510)
+[10] Sun, J.; **Cheng, L.**; Miller III, T. F. Molecular dipole moment learning via rotationally equivariant Gaussian process regression with derivatives in molecular-orbital-based machine learning. *J. Chem. Phys.*, (in press) **2022**. [Link](https://aip.scitation.org/doi/10.1063/5.0101280)
 
 [9] **Cheng, L.**<sup>\*</sup>; Yang, Z.<sup>\*</sup>; Liao, B.; Hsieh, C.; Zhang, S. ODBO: Bayesian Optimization with prescreening for directed protein evolution. arXiv:2205.09548 (2022). (\*co-first author) [Link](https://arxiv.org/abs/2205.09548)
 
