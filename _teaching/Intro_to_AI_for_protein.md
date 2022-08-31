@@ -8,7 +8,6 @@ date: 2022-12-01
 location: "Online"
 ---
 
-TBA
 
 Heading 1
 ======

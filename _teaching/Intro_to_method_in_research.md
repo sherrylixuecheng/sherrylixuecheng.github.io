@@ -7,10 +7,9 @@ venue: "Palmdrive course (棕榈大道独占课）"
 date: 2022-09-01
 location: "Online"
 ---
+If you have interests for this course, please check out the full video via [PalmDrive](https://palmdrive.cn)
 
-TBA
-
-Heading 1
+How
 ======
 
 Heading 2
