@@ -24,8 +24,6 @@ I'm also a part-time educator, scientific mentor and application advisor for hig
 Please also check out the page of my fiancé and collaborator (MOB-ML), [Jiace Sun](https://susyustc.github.io).
 
 **Our WeChat Official Account (Chinese)**
-<p align="center">
-    <img width=90% src="files/qrcode.jpg">
-  </a>
-</p>
+<img src="images/qrcode.jpg">
+
 
