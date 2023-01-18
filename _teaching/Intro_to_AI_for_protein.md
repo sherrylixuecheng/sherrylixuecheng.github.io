@@ -9,12 +9,12 @@ location: "Online"
 ---
 
 
-Goal
-======
+## Goal
+
 Equipped the essential knowledge for high-school students to use the cutting-edge AI for protein structure tools and to explore the fantastic protein structures 
 
-Key tools/knowledge
-======
+## Key tools/knowledge
+
 (1) AP level protein related knowledge
 
 (2) Protein structure visualization tool: PyMOL
@@ -25,8 +25,8 @@ Key tools/knowledge
 
 (5) RossetaFold online server (Robeta server) & paper reading
 
-Final outcome
-======
+## Final outcome
+
 Every student needs to write a research report to discover and analyze the structures for a specific protein picked by the student using the tools and knowlegde introduced in this class.
 
 
