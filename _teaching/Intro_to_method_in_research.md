@@ -8,12 +8,3 @@ date: 2022-09-01
 location: "Online"
 ---
 If you have interests for this course, please check out the full video via [PalmDrive](https://palmdrive.cn)
-
-How
-======
-
-Heading 2
-======
-
-Heading 3
-======
