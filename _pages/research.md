@@ -5,17 +5,21 @@ permalink: /research/
 excerpt: "Research"
 author_profile: true
 ---
+Note: I'll join Microsoft research soon and the research topics will be updated accordingly.
+
 I'm now an independent researcher and developing my new tools on AI for quantum sciences & molecular modelling @ Tencent Quantum Lab. I worked with [Prof. Thomas F. Miller III](https://millergroup.caltech.edu/Miller_Group/Home.html/) @ [CCE, Caltech](http://cce.caltech.edu/) on AI for chemistry. There are several projects I worked on:
+
 
 Tencent work:
 ---
-## AI for quantum computing (TBA):
+## AI for quantum computing:
 
-## AI for eletronic structure (TBA):
+[2]**Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Allcock, J.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. In preparation
 
+[1] Li, W; Allcock, J.; **Cheng, L.**; ; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. In preparation
 
 ## AI for biology: Bayesian Optimization for experimental design
-[1] **Cheng, L.**<sup>\*</sup>; Yang, Z<sup>\*</sup>; Liao, B; Hsieh, C; Zhang, S. ODBO: Bayesian optimization with search space prescreening for directed protein evolution. In submission
+[1] **Cheng, L.**<sup>\*</sup>; Yang, Z<sup>\*</sup>; Liao, B; Hsieh, C; Zhang, S. ODBO: Bayesian optimization with search space prescreening for directed protein evolution. [Link](https://arxiv.org/abs/2205.09548)
 
 Caltech work:
 ---

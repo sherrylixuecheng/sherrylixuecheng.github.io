@@ -12,6 +12,10 @@ author_profile: true
 
 ## Publications:
 
+[13] Li, W; Allcock, J.; **Cheng, L.**; ; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. In preparation
+
+[12] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Allcock, J.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. In preparation
+
 [11] **Cheng, L.**; Sun, J.; Deustua, J. E.; Bhethanabotla, V. C.; Miller III, T. F. Molecular-orbital-based machine learning for open-shell and multi-reference systems with kernel addition Gaussian process regression. *J. Chem. Phys.*, **2022**. [Link](https://aip.scitation.org/doi/10.1063/5.0110886)
 
 [10] Sun, J.; **Cheng, L.**; Miller III, T. F. Molecular dipole moment learning via rotationally equivariant Gaussian process regression with derivatives in molecular-orbital-based machine learning. *J. Chem. Phys.*, **2022**. [Link](https://aip.scitation.org/doi/10.1063/5.0101280)
