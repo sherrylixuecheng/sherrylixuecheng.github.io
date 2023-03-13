@@ -13,8 +13,9 @@ I'm now an independent researcher and developing my new tools on AI for quantum 
 Tencent work:
 ---
 ## AI for quantum computing:
+The goal is to apply the state-of-the-art ML tools to facilitate more efficient quantum algorithm realizations and quantum resource usages.
 
-[2]**Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Allcock, J.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. In preparation
+[2] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Allcock, J.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. In preparation
 
 [1] Li, W; Allcock, J.; **Cheng, L.**; ; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. In preparation
 
