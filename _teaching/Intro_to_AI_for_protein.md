@@ -8,9 +8,6 @@ date: 2022-12-01
 location: "Online"
 ---
 
-
-## Goal
-
 Equipped the essential knowledge for high-school students to use the cutting-edge AI for protein structure tools and to explore the fantastic protein structures 
 
 ## Key tools/knowledge
@@ -28,7 +25,6 @@ Equipped the essential knowledge for high-school students to use the cutting-edg
 ## Final outcome
 
 Every student needs to write a research report to discover and analyze the structures for a specific protein picked by the student using the tools and knowlegde introduced in this class.
-
 
 
 

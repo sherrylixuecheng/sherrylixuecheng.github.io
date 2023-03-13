@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCheng_Resume.pdf)
-(updated in July, 2022)
+(updated in Mar, 2023)
 
 Education
 ======
 * B.S. in Chemistry (H), Math (H), Biochemistry, Molecular Biology, University of Wisconsin-Madison, 2016
 * Ph.D in Theoretical chemistry, California Institute of Technology, 2022. 
-With Prof. Thomas F. Miller, III.
+With Prof. Thomas F. Miller, III and Prof. Bill Goddard.
 
 Work experience
 ======
