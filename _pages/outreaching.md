@@ -16,6 +16,6 @@ Any college students are welcome to work with me on reasonable projects. If you 
 I'm a contributor to an opensource software, [MathTranslate](https://github.com/SUSYUSTC/MathTranslate). This is a project to provide translation of scientific papers with heavy math symbols from any language to any language while keeping the math symbols unchanged. More can be found from [Jiace's personal page](https://susyustc.github.io/mathtranslate/)
 
 <p align="center">
-<img width=30% src="../images/logo.jpg">
+<img src="../images/logo.jpg"  width="300" >
 </p>
 
