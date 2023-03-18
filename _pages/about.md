@@ -9,7 +9,7 @@ redirect_from:
 ---
 **Research**
 
-Notice: I will join Microsoft research AI4Sci team in May, 2023. The research part will be updated accordingly.
+<!-- Notice: I will join Microsoft research AI4Sci team in May, 2023. The research part will be updated accordingly. -->
 
 I joint Tencent Quantum Lab in July, 2022 as a senior research scientist. My work is focusing on AI for science, including quantum chemistry, biology, and quantum computing algorithms. I am interested in the interdisciplinary research between chemistry, physics, biology, and computer sciences, and passionate about bridging the mind gaps between different areas.
 

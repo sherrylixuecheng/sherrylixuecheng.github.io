@@ -5,7 +5,7 @@ permalink: /research/
 excerpt: "Research"
 author_profile: true
 ---
-Note: I'll join Microsoft research soon and the research topics will be updated accordingly.
+<!-- Note: I'll join Microsoft research soon and the research topics will be updated accordingly. -->
 
 I'm now an independent researcher and developing my new tools on AI for quantum sciences & molecular modelling @ Tencent Quantum Lab. I worked with [Prof. Thomas F. Miller III](https://millergroup.caltech.edu/Miller_Group/Home.html/) @ [CCE, Caltech](http://cce.caltech.edu/) on AI for chemistry. There are several projects I worked on:
 
