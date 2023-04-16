@@ -7,7 +7,7 @@ venue:  "Palmdrive course (棕榈大道独占课）"
 date: 2023-4-16
 location: "Online"
 ---
-By reading literature, using online, analyzing and comparing different chatbot products, you can understand the hottest and most commercially valuable artificial intelligence direction. Through two different characteristic projects (report & python), students with different programming foundations can gain something.
+By reading literature, using online, analyzing and comparing different ChatGPT-like products, you can understand the hottest and most commercially valuable artificial intelligence direction. Through two different characteristic projects (report & python), students with different programming foundations can equip with (1) some knowledge about NLP, LLM and their applications and/or (2) Apps based on ChatGPT-like products.
 
 ## Final outcome
 
