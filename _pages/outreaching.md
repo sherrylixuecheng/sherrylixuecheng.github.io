@@ -13,7 +13,7 @@ I think it is equally important to perform the cutting-edge research by myself a
 **Community**: Please also checkout & contribute any ideas the [AI4Sci Education org](https://github.com/AI4SciEdu) founded by me on GitHub, the corresponding website is [AI4Sci Education](https://ai4sci.github.io)
 
 <p align="center">
-<img src="../images/prof_pic.jpg"  width="300" >
+<img src="../images/prof_pic.jpg"  width="200" >
 </p>
 
 **Courses/research oppotunity**: Any college/high-school students are welcome to work with me on reasonable projects. If you have interests, please contact via [PalmDrive](https://palmdrive.cn) Or direct contact me via sherrylixuecheng@gmail.com
@@ -23,6 +23,6 @@ I think it is equally important to perform the cutting-edge research by myself a
 I'm a contributor to an opensource software, [MathTranslate](https://github.com/SUSYUSTC/MathTranslate). This is a project to provide translation of scientific papers with heavy math symbols from any language to any language while keeping the math symbols unchanged. More can be found from [Jiace's personal page](https://susyustc.github.io/mathtranslate/)
 
 <p align="center">
-<img src="../images/logo.jpg"  width="300" >
+<img src="../images/logo.jpg"  width="200" >
 </p>
 
