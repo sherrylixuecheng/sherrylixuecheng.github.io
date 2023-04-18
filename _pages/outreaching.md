@@ -12,6 +12,10 @@ I think it is equally important to perform the cutting-edge research by myself a
 
 **Community**: Please also checkout & contribute any ideas the [AI4Sci Education org](https://github.com/AI4SciEdu) founded by me on GitHub, the corresponding website is [AI4Sci Education](https://ai4sci.github.io)
 
+<p align="center">
+<img src="../images/prof_pic.jpg"  width="300" >
+</p>
+
 **Courses/research oppotunity**: Any college/high-school students are welcome to work with me on reasonable projects. If you have interests, please contact via [PalmDrive](https://palmdrive.cn) Or direct contact me via sherrylixuecheng@gmail.com
 
 
