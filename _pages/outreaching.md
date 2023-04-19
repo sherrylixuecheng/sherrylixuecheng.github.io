@@ -10,7 +10,7 @@ I think it is equally important to perform the cutting-edge research by myself a
 
 **Collaborator needed**: I'm keen to explore how to better perform education for AI4Sci. Since I'm from a science background with no education theory backgrounds, I'm also willing to collaborate with other researchers on this topic!
 
-**Community**: Please also checkout & contribute any ideas the [AI4Sci Education org](https://github.com/AI4SciEdu) founded by me on GitHub, the corresponding website is [AI4Sci Education](https://ai4sci.github.io)
+**Community**: Please also checkout & contribute any ideas the [AI4Sci Education org](https://github.com/AI4SciEdu) founded by me on GitHub, the corresponding website is [AI4Sci Education](https://ai4sciedu.github.io)
 
 <p align="center">
 <img src="../images/prof_pic.jpg"  width="200" >
