@@ -10,8 +10,10 @@ author_profile: true
 I'm now an independent researcher and developing my new tools on AI for quantum sciences & molecular modelling @ Tencent Quantum Lab. I worked with [Prof. Thomas F. Miller III](https://millergroup.caltech.edu/Miller_Group/Home.html/) @ [CCE, Caltech](http://cce.caltech.edu/) on AI for chemistry. There are several projects I worked on:
 
 
-Tencent work:
+Independent work:
 ---
+### AI for electronic structure: TBA 
+
 ### AI for quantum computing & Quantum machine learning:
 The goal is to apply the state-of-the-art ML tools to facilitate more efficient quantum algorithm realizations and quantum resource usages.
 
@@ -25,7 +27,7 @@ The goal is to apply the state-of-the-art ML tools to facilitate more efficient 
 
 Caltech work:
 ---
-### MOB-ML:
+### AI for electronic structure: MOB-ML
 
 Quantum simulation is a is a powerful tool for chemists to understand the chemical processes and discover their nature accurately by expensive wavefunction theory (WFT) or approximately by cheap density function theory (DFT). However, the cost-accuracy trade-offs in electronic structure methods limit the application of quantum simulation to large chemical and biological systems. An accurate, transferable, and physical-driven molecular modelling framework, i.e., molecular orbital based machine learning (MOB-ML), is introduced to provide accurate wavefunction-quality molecular descriptions with at most DFT level computational cost. Preserving all the physical constraints, molecular orbital based (MOB) features represent the chemical space faithfully in both supervised learning for molecular property by scalable exact Gaussian processes and unsupervised learning for chemical space explorations. MOB-ML is not only the most accurate method in the low data regime, but also scalable to big data modelling to provide a universal density matrix functional. As an exciting and general new tool to tackle various problems in chemistry, MOB-ML offers great accuracies of predicting total energies of organic and transition-metal containing molecules, non-covalent interactions in the protein backbone-backbone, and transition-state energies. The availability of analytical gradient of MOB-ML opens an avenue of applying MOB-ML to provide accurate potential energy surfaces (PESs) for molecular dynamics simulations, and we further support this by applying PESs obtained from MOB-ML to simulate diffusion Monte Carlo accurately and efficiently for computational spectroscopy.
 
@@ -43,5 +45,5 @@ Quantum simulation is a is a powerful tool for chemists to understand the chemic
 [5] Welborn, M.; **Cheng, L.**; Miller III, T. F. Transferability in machine learning for electronic structure via the molecular orbital basis. J. Chem. Theory Comput. 2018. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00636) (Highlighted with commentary in [C&EN](https://cen.acs.org/physical-chemistry/computational-chemistry/Machine-learning-predicts-electronic-properties/96/web/2018/08) and [Caltech News](http://www.caltech.edu/news/researchers-put-ai-work-making-chemistry-predictions-83357))
 
 
-### INSPIRE
+### AI for biology: INSPIRE
 Predict the thermaldynamics properties of nucleic acids using their secondary structures.
