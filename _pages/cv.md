@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCheng_Resume.pdf)
-(updated in Mar, 2023)
+(updated in April, 2023)
 
 Education
 ======
@@ -17,7 +17,10 @@ With Prof. Thomas F. Miller, III and Prof. Bill Goddard.
 
 Work experience
 ======
-* July 2022-:   Research Scientist
+* ~June 2023-:   Posdoc researcher
+  * Microsoft Research AI4Sci Lab, Microsoft
+
+* July 2022- April 2023:   Research Scientist
   * Tencent Quantum Lab, Tencent
 
 * July 2021– September 2021: Research Intern
