@@ -11,14 +11,12 @@ I'll join Microsoft research as a postdoc researcher soon and the research topic
 
 Microsoft research work:
 ---
-### AI for Chemistry
+### AI for chemistry
 TBA
 
 
 Tencent work:
 ---
-### AI for electronic structure: TBA 
-
 ### AI for quantum computing & Quantum machine learning:
 The goal is to apply the state-of-the-art ML tools to facilitate more efficient quantum algorithm realizations and quantum resource usages.
 
