@@ -5,9 +5,14 @@ permalink: /research/
 excerpt: "Research"
 author_profile: true
 ---
-<!-- Note: I'll join Microsoft research soon and the research topics will be updated accordingly. -->
 
-I'm now an independent researcher and developing my new tools on AI for quantum sciences & molecular modelling @ Tencent Quantum Lab. I worked with [Prof. Thomas F. Miller III](https://millergroup.caltech.edu/Miller_Group/Home.html/) @ [CCE, Caltech](http://cce.caltech.edu/) on AI for chemistry. There are several projects I worked on:
+I'll join Microsoft research as a postdoc researcher soon and the research topics will be updated accordingly. I developed new tools on AI for quantum sciences & molecular modelling in Tencent. Before that, I worked with [Prof. Thomas F. Miller III](https://millergroup.caltech.edu/Miller_Group/Home.html/) @ [CCE, Caltech](http://cce.caltech.edu/) on AI for chemistry. The topics/projects I'm working on are shown as below.
+
+
+Microsoft research work:
+---
+### AI for Chemistry
+TBA
 
 
 Tencent work:
@@ -15,10 +20,10 @@ Tencent work:
 ### AI for quantum computing & Quantum machine learning:
 The goal is to apply the state-of-the-art ML tools to facilitate more efficient quantum algorithm realizations and quantum resource usages.
 
+[1] Li, W; Allcock, J.; **Cheng, L.**; ; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. arXiv:2303.10825 (2023).[Link](https://arxiv.org/abs/2303.10825)
+
 [2] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) arXiv:2303.14877 (2023).[Link](https://arxiv.org/abs/2303.14877)
 
-
-[1] Li, W; Allcock, J.; **Cheng, L.**; ; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. arXiv:2303.10825 (2023).[Link](https://arxiv.org/abs/2303.10825)
 
 ### AI for biology: Bayesian Optimization for experimental design
 [1] **Cheng, L.**<sup>\*</sup>; Yang, Z<sup>\*</sup>; Liao, B; Hsieh, C; Zhang, S. ODBO: Bayesian optimization with search space prescreening for directed protein evolution. [Link](https://arxiv.org/abs/2205.09548)
@@ -34,7 +39,7 @@ Quantum simulation is a is a powerful tool for chemists to understand the chemic
 
 [1]  **Cheng, L.**; Sun, J.; Deustua, J. E.; Bhethanabotla, V. C.; Miller III, T. F. Molecular-orbital-based machine learning for open-shell and multi-reference systems with kernel addition Gaussian process regression. arXiv:2207.08317 (2022). [Link](https://arxiv.org/abs/2207.08317)
 
-[2] Lu, F.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; DiRisio, R. J.<sup>\*</sup>; Finney, J. M.; Boyer, M. A.; Lu, F.; Moonkaen, P.; Sun, J.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Fast near ab initio potential energy surfaces using machine learning. *J. Phys. Chem. A*, **2022**. (*co-first author) [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.2c02243)
+[2] Lu, F.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; DiRisio, R. J.<sup>\*</sup>; Finney, J. M.; Boyer, M. A.; Lu, F.; Moonkaen, P.; Sun, J.; Lee, S. J. R.; Deustua, J. E.; Miller III, T. F.; McCoy, A. B. Fast near ab initio potential energy surfaces using machine learning. *J. Phys. Chem. A*, **2022**. (\*co-first author) [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.2c02243)
 
 [3] **Cheng, L.**; Kovachki, N; Welborn, M.; Miller III, T. F. Regression clustering for improved accuracy and training costs with molecular-orbital-based machine learning. J. Chem. Theory Comput., 2019. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00884)
 
