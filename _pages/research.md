@@ -15,7 +15,7 @@ Microsoft research work:
 TBA
 
 
-Independent work:
+Tencent work:
 ---
 ### AI for electronic structure: TBA 
 
