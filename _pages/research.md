@@ -15,7 +15,7 @@ Microsoft research work:
 TBA
 
 
-Tencent work:
+Other independent work:
 ---
 ### AI for quantum computing & Quantum machine learning:
 The goal is to apply the state-of-the-art ML tools to facilitate more efficient quantum algorithm realizations and quantum resource usages.
@@ -27,6 +27,11 @@ The goal is to apply the state-of-the-art ML tools to facilitate more efficient 
 
 ### AI for biology: Bayesian Optimization for experimental design
 [1] **Cheng, L.**<sup>\*</sup>; Yang, Z<sup>\*</sup>; Liao, B; Hsieh, C; Zhang, S. ODBO: Bayesian optimization with search space prescreening for directed protein evolution. [Link](https://arxiv.org/abs/2205.09548)
+
+
+### Quantum computing
+TBA
+
 
 Caltech work:
 ---
