@@ -6,12 +6,12 @@ excerpt: "Research"
 author_profile: true
 ---
 
-I'll join Microsoft research as a postdoc researcher soon and the research topics will be updated accordingly. I developed new tools on AI for quantum sciences & molecular modelling in Tencent. Before that, I worked with [Prof. Thomas F. Miller III](https://millergroup.caltech.edu/Miller_Group/Home.html/) @ [CCE, Caltech](http://cce.caltech.edu/) on AI for chemistry. The topics/projects I'm working on are shown as below.
+I'm working at [Microsoft Research](https://www.microsoft.com/en-us/research/) as a researcher on DeepQMC for electronic structure. I graduated with [Prof. Thomas F. Miller III](https://millergroup.caltech.edu/Miller_Group/Home.html/) @ [CCE, Caltech](http://cce.caltech.edu/) in 2022 on AI for quantum chemistry (MOB-ML). Before joining [Microsoft Research AI4Science lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), I was a researcher working on the interdisplinary studies between quantum sciences & machine learning in Tencent Quantum Lab for around 9 months. The topics/projects I am working/worked on are listed as below.
 
-
-Microsoft research work:
+Microsoft Research work:
 ---
 ### AI for chemistry
+Deep Quantum Monte Carlo for Electronic Structure
 TBA
 
 

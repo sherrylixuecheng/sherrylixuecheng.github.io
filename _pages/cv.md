@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCheng_Resume.pdf)
-(updated in April, 2023)
+(updated in June, 2023)
 
 Education
 ======
@@ -17,7 +17,7 @@ With Prof. Thomas F. Miller, III and Prof. Bill Goddard.
 
 Work experience
 ======
-* ~June 2023-:   Posdoc researcher
+* June 2023-: Researcher
   * Microsoft Research AI4Sci Lab, Microsoft
 
 * July 2022- April 2023:   Research Scientist
