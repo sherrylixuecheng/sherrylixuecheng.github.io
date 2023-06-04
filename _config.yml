@@ -85,11 +85,11 @@ author:
   name             : "Sherry Lixue Cheng"
   avatar           : "academic_photo.jpg"
   bio              : "Ph.D from Caltech"
-  location         : "Shenzhen, Guangdong, China"
-  employer         : "Tencent Quantum Lab"
+  location         : "Berlin, Germany"
+  employer         : "Microsoft Research"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hy_oauIAAAAJ&hl=en"
-  email            : "sherrycheng@tencent.com"
+  email            : "t-shcheng@microsoft.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
