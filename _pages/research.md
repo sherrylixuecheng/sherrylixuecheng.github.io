@@ -26,7 +26,7 @@ The goal is to apply the state-of-the-art ML tools to facilitate more efficient 
 [1] **Cheng, L.**<sup>\*</sup>; Yang, Z<sup>\*</sup>; Liao, B; Hsieh, C; Zhang, S. ODBO: Bayesian optimization with search space prescreening for directed protein evolution. [Link](https://arxiv.org/abs/2205.09548)
 
 
-### Quantum computing
+### Quantum computing for quantum chemistry
 [1] **Sun, J.**; Cheng, L.; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach. arXiv:2306.12053 (2023).[Link](https://arxiv.org/abs/2306.12053)
 
 [2] Li, W; Allcock, J.; **Cheng, L.**; ; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. arXiv:2303.10825 (2023).[Link](https://arxiv.org/abs/2303.10825)
