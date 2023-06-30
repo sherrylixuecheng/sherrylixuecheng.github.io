@@ -19,12 +19,7 @@ Other independent work:
 ---
 ### AI for quantum computing & Quantum machine learning:
 The goal is to apply the state-of-the-art ML tools to facilitate more efficient quantum algorithm realizations and quantum resource usages.
-
-[1] **Sun, J.**; Cheng, L.; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach. arXiv:2306.12053 (2023).[Link](https://arxiv.org/abs/2306.12053)
-
-[2] Li, W; Allcock, J.; **Cheng, L.**; ; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. arXiv:2303.10825 (2023).[Link](https://arxiv.org/abs/2303.10825)
-
-[3] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) arXiv:2303.14877 (2023).[Link](https://arxiv.org/abs/2303.14877)
+[1] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) arXiv:2303.14877 (2023).[Link](https://arxiv.org/abs/2303.14877)
 
 
 ### AI for biology: Bayesian Optimization for experimental design
@@ -32,7 +27,9 @@ The goal is to apply the state-of-the-art ML tools to facilitate more efficient 
 
 
 ### Quantum computing
-TBA
+[1] **Sun, J.**; Cheng, L.; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach. arXiv:2306.12053 (2023).[Link](https://arxiv.org/abs/2306.12053)
+
+[2] Li, W; Allcock, J.; **Cheng, L.**; ; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. arXiv:2303.10825 (2023).[Link](https://arxiv.org/abs/2303.10825)
 
 
 Caltech work:
