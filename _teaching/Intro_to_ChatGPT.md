@@ -15,6 +15,6 @@ By reading literature, using online, analyzing and comparing different ChatGPT-l
 
 (2) Python project: Varies by year
 
-Please refer to the [GitHub course page] (https://github.com/sherrylixuecheng/GPTforHighSchoolStudents)
+Please refer to the [GitHub course page](https://github.com/sherrylixuecheng/GPTforHighSchoolStudents)
 
 If you have interests for this course, please chat with [PalmDrive](https://palmdrive.cn)
