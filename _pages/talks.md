@@ -8,12 +8,12 @@ author_profile: true
 
 **Talk title: Accurate and transferable molecular-orbital-based machine learning for molecular modelling**
 
-1. 09/03/2021 Online talk for Panchi-Chipan Frontier of sciences series of talks. Hosted by International Centre for Quantum and Molecular Structures, ICQMS, at Shanghai University and [Koushare](https://www.koushare.com/)
+* 09/03/2021 Online talk for Panchi-Chipan Frontier of sciences series of talks. Hosted by International Centre for Quantum and Molecular Structures, ICQMS, at Shanghai University and [Koushare](https://www.koushare.com/)
 
 Video available [here](https://www.koushare.com/video/videodetail/16294)
 
 
-2. 01/12/2023 Online talk for ["AI + Math" Colloquia](https://ins.sjtu.edu.cn/seminars/2440) series of talks. Hosted by Institute of Natural Sciences at Shanghai Jiaotong University 
+* 01/12/2023 Online talk for ["AI + Math" Colloquia](https://ins.sjtu.edu.cn/seminars/2440) series of talks. Hosted by Institute of Natural Sciences at Shanghai Jiaotong University 
 
 
 **Clubhouse discussion: Molecular-orbital-based machine learning for molecular modelling**
