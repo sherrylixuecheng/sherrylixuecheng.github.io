@@ -20,8 +20,7 @@ Deep Quantum Monte Carlo for Electronic Structure\\
 TBA
 
 
-<hr width="50%" />
-
+<hr/>
 Other independent work:
 ---
 ### AI for quantum computing & Quantum machine learning:
@@ -40,8 +39,7 @@ The goal is to apply the state-of-the-art ML tools to facilitate more efficient 
 [2] Li, W; Allcock, J.; **Cheng, L.**; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. arXiv:2303.10825 (2023).[Link](https://arxiv.org/abs/2303.10825)
 
 
-<hr width="50%" />
-
+<hr/>
 Caltech work:
 ---
 ### AI for electronic structure: MOB-ML
