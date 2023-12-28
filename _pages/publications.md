@@ -11,7 +11,7 @@ author_profile: true
 {% endif %}
 
 ## Publications:
-[14] Sun, J.; **Cheng, L.**; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach. arXiv:2306.12053 (2023).[Link](https://arxiv.org/abs/2306.12053)
+[14] Sun, J.; **Cheng, L.**; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach. In press, *J. Chem. Theory Comput.*, 2023.[Link](https://arxiv.org/abs/2306.12053)
 
 [13] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) arXiv:2303.14877 (2023).[Link](https://arxiv.org/abs/2303.14877)
 
