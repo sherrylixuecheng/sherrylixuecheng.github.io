@@ -34,9 +34,9 @@ The goal is to apply the state-of-the-art ML tools to facilitate more efficient 
 
 
 ### Quantum computing for quantum chemistry
-[1] **Sun, J.**; Cheng, L.; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach. arXiv:2306.12053 (2023).[Link](https://arxiv.org/abs/2306.12053)
+[1] Sun, J.; **Cheng, L.**; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach.  *J. Chem. Theory Comput.*, **2024**.[Link](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00886)
 
-[2] Li, W; Allcock, J.; **Cheng, L.**; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. arXiv:2303.10825 (2023).[Link](https://arxiv.org/abs/2303.10825)
+[2] Li, W; Allcock, J.; **Cheng, L.**; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. *J. Chem. Theory Comput.*, **2023**.[Link](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c00319)
 
 
 <hr/>
