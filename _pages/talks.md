@@ -13,7 +13,7 @@ author_profile: true
 Video available [here](https://www.koushare.com/video/videodetail/16294)
 
 
-* 01/12/2023 Online talk for ["AI + Math" Colloquia](https://ins.sjtu.edu.cn/seminars/2440) series of talks. Hosted by Institute of Natural Sciences at Shanghai Jiaotong University 
+* 01/15/2023 Online talk for ["AI + Math" Colloquia](https://ins.sjtu.edu.cn/seminars/2440) series of talks. Hosted by Institute of Natural Sciences at Shanghai Jiaotong University 
 
 
 **Clubhouse discussion: Molecular-orbital-based machine learning for molecular modelling**
