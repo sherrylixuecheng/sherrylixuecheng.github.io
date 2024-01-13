@@ -13,15 +13,21 @@ author_profile: true
 Video available [here](https://www.koushare.com/video/videodetail/16294)
 
 
-* 01/15/2023 Online talk for ["AI + Math" Colloquia](https://ins.sjtu.edu.cn/seminars/2440) series of talks. Hosted by Institute of Natural Sciences at Shanghai Jiaotong University 
-
-
-**Clubhouse discussion: Molecular-orbital-based machine learning for molecular modelling**
-05/21/2022 Clubhouse talk on Science Society Clubhouse channel for general audience. Hosted by Prof. Catarina Cunha (NYU), audio channel at [Science Society Clubhouse](https://www.clubhousesciencesociety.com/)
+* 05/21/2022 Online talk for Science Society Clubhouse channel for general audience. Hosted by Prof. Catarina Cunha (NYU), audio channel at [Science Society Clubhouse](https://www.clubhousesciencesociety.com/)
 
 Audio will be avaiable [here](https://www.clubhouse.com/join/science-society/KJT0wIVG/mWwgqlwY?utm_medium=ch_invite&utm_campaign=j24X6ivwc0EnmCitvMfvdw-166570).
 
-Slides will be avaialble [here](https://sherrylixuecheng.github.io/files/talk_05_21.pdf)
+Slides is avaialble [here](https://sherrylixuecheng.github.io/files/talk_05_21.pdf)
 
 
-**I'm excited to receive talk invitations. If you have interests, please contact me via sherrylixuecheng@gmail.com. :D
+* 01/15/2024 Online talk for ["AI + Math" Colloquia](https://ins.sjtu.edu.cn/seminars/2440) series of talks. Hosted by Institute of Natural Sciences at Shanghai Jiaotong University 
+
+
+**Talk title: Breaking the exponential wall for many-body problems: ML for quantum computing and electronic structure**
+
+* 05/05/2023 Online talk for Anhui University. Hosted by Department of Physics and Optical Engineering.
+
+Slides is avaialble [here](https://sherrylixuecheng.github.io/files/talk_05_05_23.pdf)
+
+
+**I'm excited to receive talk invitations. If you have interests, please contact me via sherrylixuecheng@gmail.com. :D**
