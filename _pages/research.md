@@ -18,6 +18,7 @@ Microsoft Research work:
 ### AI for chemistry
 Deep Quantum Monte Carlo for Electronic Structure\\
 TBA
+
 LLMs for Scientific Discovery: Evaluate and explore the ability of LLMs in many scientific tasks. 
 
 
