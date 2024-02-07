@@ -15,7 +15,7 @@ author_profile: true
 
 [14] Sun, J.; **Cheng, L.**; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach.  *J. Chem. Theory Comput.*, **2024**.[Link](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00886)
 
-[13] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) arXiv:2303.14877 (2023).[Link](https://arxiv.org/abs/2303.14877)
+[13] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) arXiv:2303.14877 (2023).[Link](https://arxiv.org/abs/2303.14877) Accepted by Commun. Phys.
 
 [12] Li, W; Allcock, J.; **Cheng, L.**; Zhang, S.-X.; Chen, Y.-Q.; Mailoa, J.P.; Zhang, S. TenCirChem: An efficient quantum computational chemistry package for the NISQ era. *J. Chem. Theory Comput.*, **2023**.[Link](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c00319)
 
