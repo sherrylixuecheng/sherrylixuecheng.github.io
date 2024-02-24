@@ -1,5 +1,5 @@
 ---
-title: "Introduction to AI for protein 3D sturtcure predictions for high school students"
+title: "Introduction to AI for protein 3D structure predictions for high school students"
 collection: teaching
 type: "Science frontier series course"
 permalink: /teaching/Intro_to_AI_for_protein

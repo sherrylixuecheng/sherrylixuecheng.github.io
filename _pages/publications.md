@@ -11,6 +11,8 @@ author_profile: true
 {% endif %}
 
 ## Publications:
+[16] Sun, J.; **Cheng, L.**; Zhang, S.-X. Stabilizer ground state: Theory, algorithms and applications. In submission.
+
 [15] MR AI4Science^, MA Quantum. The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4. arXiv:2311.07361 (2023).[Link](https://arxiv.org/abs/2311.07361) (^Main contributor to Chapter 4, see Authorship and contribution list)
 
 [14] Sun, J.; **Cheng, L.**; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach.  *J. Chem. Theory Comput.*, **2024**.[Link](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00886)
