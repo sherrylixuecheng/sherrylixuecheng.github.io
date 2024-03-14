@@ -11,9 +11,9 @@ author_profile: true
 {% endif %}
 
 ## Publications:
-[16] Sun, J.; **Cheng, L.**; Zhang, S.-X. Stabilizer ground state: Theory, algorithms and applications. In submission.
+[16] Sun, J.; **Cheng, L.**; Zhang, S.-X. Stabilizer ground state: Theory, algorithms and applications. Stabilizer ground state: Theory, algorithms and applications. arXiv: 2403.08441 (2024).[Link](https://arxiv.org/abs/2403.08441)
 
-[15] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) *Commun. Phys.*, 2024.[Link](https://www.nature.com/articles/s42005-024-01577-x)
+[15] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) *Commun. Phys.*, **2024**.[Link](https://www.nature.com/articles/s42005-024-01577-x)
 
 [14] Sun, J.; **Cheng, L.**; Li, W. Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach.  *J. Chem. Theory Comput.*, **2024**.[Link](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00886)
 
