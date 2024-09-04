@@ -17,9 +17,10 @@ Microsoft Research work:
 ---
 ### AI for chemistry
 Deep Quantum Monte Carlo for Electronic Structure\\
-TBA
+[1] **Cheng, L.**<sup>\*</sup>; Szabó, P.B.<sup>\*</sup>; Schätzle, Z.<sup>\*</sup>; Kooi, D.; Köhler, J.; Noé, F.; Gori-Giorgi, P.; Foster, A. Highly Accurate Real-space Electron Densities with Neural Networks, arXiv:2409.01306.(\*co-first author)[Link](https://arxiv.org/abs/2409.01306)
 
-LLMs for Scientific Discovery: Evaluate and explore the ability of LLMs in many scientific tasks. 
+LLMs for Scientific Discovery: Evaluate and explore the ability of LLMs in many scientific tasks.\\
+[1] MR AI4Science^, MA Quantum. The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4. arXiv:2311.07361 (2023).[Link](https://arxiv.org/abs/2311.07361) (^Main contributor to Chapter 4, see Authorship and contribution list) 
 
 
 <hr/>
