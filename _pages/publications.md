@@ -11,6 +11,9 @@ author_profile: true
 {% endif %}
 
 ## Publications:
+
+[17] **Cheng, L.**; Szabó, P.B.; Schätzle, Z.; Kooi, D.; Köhler, J.; Noé, F.; Gori-Giorgi, P.; Foster, A. Highly Accurate Real-space Electron Densities with Neural Networks, arXiv:2409.01306. [Link](https://arxiv.org/abs/2409.01306)
+
 [16] Sun, J.; **Cheng, L.**; Zhang, S.-X. Stabilizer ground state: Theory, algorithms and applications. Stabilizer ground state: Theory, algorithms and applications. arXiv: 2403.08441 (2024).[Link](https://arxiv.org/abs/2403.08441)
 
 [15] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) *Commun. Phys.*, **2024**.[Link](https://www.nature.com/articles/s42005-024-01577-x)
