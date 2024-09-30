@@ -14,7 +14,7 @@ I'm working at [Microsoft Research](https://www.microsoft.com/en-us/research/) a
 </p>
 
 <p align="center">
-<img src="../images/overview2.jpg"  width="600" >
+<img src="../images/overview2.png"  width="600" >
 </p>
 
 Microsoft Research work:
