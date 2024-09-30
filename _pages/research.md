@@ -13,6 +13,10 @@ I'm working at [Microsoft Research](https://www.microsoft.com/en-us/research/) a
 <img src="../images/overview.jpg"  width="600" >
 </p>
 
+<p align="center">
+<img src="../images/overview2.jpg"  width="600" >
+</p>
+
 Microsoft Research work:
 ---
 ### AI for chemistry
