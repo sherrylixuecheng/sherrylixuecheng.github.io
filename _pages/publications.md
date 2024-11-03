@@ -12,6 +12,10 @@ author_profile: true
 
 ## Publications:
 
+[19] **Cheng, L.**<sup>\*</sup>; Shen, J.<sup>\*</sup>; Helie, J.; Sun, L. In preparation. (\*co-first author)
+
+[18] Jacobson, G.; Cheng, L.; Sun, J; Bhethanabotla, V; McCoy, A. B., In preparation.
+
 [17] **Cheng, L.**<sup>\*</sup>; Szabó, P.B.<sup>\*</sup>; Schätzle, Z.<sup>\*</sup>; Kooi, D.; Köhler, J.; Noé, F.; Gori-Giorgi, P.; Foster, A. Highly Accurate Real-space Electron Densities with Neural Networks, arXiv:2409.01306.(\*co-first author)[Link](https://arxiv.org/abs/2409.01306)
 
 [16] Sun, J.; **Cheng, L.**; Zhang, S.-X. Stabilizer ground state: Theory, algorithms and applications. arXiv: 2403.08441 (2024).[Link](https://arxiv.org/abs/2403.08441)
