@@ -4,6 +4,11 @@ title: "Outreaching"
 permalink: /outreaching/
 author_profile: true
 ---
+## AI for Science Community  
+I'm a core organizer in AI for Science Community We are a group of researchers would like to serve the community and lead AI for Science to a better future. Please checkout our [AI for Science community](https://ai4sciencecommunity.github.io/)
+
+We host workshops and will have first AI for Science conferences. We also write blogs and have slack and WeChat communities.
+
 
 ## AI4Sci Education 
 I think it is equally important to perform the cutting-edge research by myself and to help the growth of next generation of researchers. I'm currently collaborating with PalmDrive Education as a scientic mentor and working closely with talented college students on **AI4Sci** and/or **quantum sciences**. 
