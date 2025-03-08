@@ -16,7 +16,7 @@ author_profile: true
 
 [18] Jacobson, G.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; Sun, J; Bhethanabotla, V; McCoy, A. B., Machine Learning Approaches for Developing Potential Surfaces: Applications to OH(H2O)n (n=1-3) Complexes. ChemRxiv, 10.26434/chemrxiv-2024-5c808 \*co-first author)[Link](https://chemrxiv.org/engage/chemrxiv/article-details/6771f10581d2151a02521850)
 
-[17] **Cheng, L.**<sup>\*</sup>; Szabó, P.B.<sup>\*</sup>; Schätzle, Z.<sup>\*</sup>; Kooi, D.; Köhler, J.; Noé, F.; Gori-Giorgi, P.; Foster, A. Highly Accurate Real-space Electron Densities with Neural Networks, arXiv:2409.01306.(\*co-first author)[Link](https://arxiv.org/abs/2409.01306)
+[17] **Cheng, L.**<sup>\*</sup>; Szabó, P.B.<sup>\*</sup>; Schätzle, Z.<sup>\*</sup>; Kooi, D.; Köhler, J.; Noé, F.; Gori-Giorgi, P.; Foster, A. Highly Accurate Real-space Electron Densities with Neural Networks, *J. Chem. Phys.*, **2014**.(\*co-first author)[Link](https://doi.org/10.1063/5.0236919)
 
 [16] Sun, J.; **Cheng, L.**; Zhang, S.-X. Stabilizer ground state: Theory, algorithms and applications. arXiv: 2403.08441 (2024).[Link](https://arxiv.org/abs/2403.08441)
 
