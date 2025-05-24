@@ -12,9 +12,8 @@ author_profile: true
 
 ## Publications:
 
-[19] **Cheng, L.**<sup>\*</sup>; Shen, J.<sup>\*</sup>; Helie, J.; Sun, L. In preparation. (\*co-first author)
+[18] Jacobson, G.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; Sun, J; Bhethanabotla, V; McCoy, A. B., Machine Learning Approaches for Developing Potential Surfaces: Applications to OH-(H2O)n (n=1-3) Complexes. *J. Phys. Chem. A*, **2025**. (\*co-first author)[Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.4c08826)
 
-[18] Jacobson, G.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; Sun, J; Bhethanabotla, V; McCoy, A. B., Machine Learning Approaches for Developing Potential Surfaces: Applications to OH(H2O)n (n=1-3) Complexes. ChemRxiv, 10.26434/chemrxiv-2024-5c808 \*co-first author)[Link](https://chemrxiv.org/engage/chemrxiv/article-details/6771f10581d2151a02521850)
 
 [17] **Cheng, L.**<sup>\*</sup>; Szabó, P.B.<sup>\*</sup>; Schätzle, Z.<sup>\*</sup>; Kooi, D.; Köhler, J.; Noé, F.; Gori-Giorgi, P.; Foster, A. Highly Accurate Real-space Electron Densities with Neural Networks, *J. Chem. Phys.*, **2014**.(\*co-first author)[Link](https://doi.org/10.1063/5.0236919)
 
