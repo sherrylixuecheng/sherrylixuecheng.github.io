@@ -17,7 +17,10 @@ With Prof. Thomas F. Miller, III and Prof. Bill Goddard.
 
 Work experience
 ======
-* June 2023-: Researcher
+* 2025 Fall- : Assistant Professor
+  * Department of Chemistry, HKUST
+
+* June 2023-June 2025: Researcher
   * Microsoft Research AI4Sci Lab, Microsoft
 
 * July 2022- April 2023:   Research Scientist
@@ -29,7 +32,7 @@ Work experience
 * September 2014–January 2015: Research Assistant
   * Sonoco Products Co., 455 Science Drive, Madison, WI
 
-Publications
+Publications before running own research group
 ======
 Please refer to the Publication page
   
