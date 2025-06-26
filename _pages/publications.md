@@ -12,12 +12,13 @@ author_profile: true
 
 ## Publications:
 
-[18] Jacobson, G.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; Sun, J; Bhethanabotla, V; McCoy, A. B., Machine Learning Approaches for Developing Potential Surfaces: Applications to OH-(H2O)n (n=1-3) Complexes. *J. Phys. Chem. A*, **2025**. (\*co-first author)[Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.4c08826)
+[19] Foster, A.<sup>\*</sup>; Schatzle, Z.<sup>\*</sup>; Szabo, P. B.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; Kohler, J.; Cassella, G.; Gao, N.; Li, J. ; Noe, F.; Hermann, J. A Wavefunction Foundation Model that Accurately Describes Bond Breaking. arXiv:2506.19960. (2025). (\*co-first author) [Link](https://arxiv.org/abs/2506.19960)
 
+[18] Sun, J.; **Cheng, L.**; Zhang, S.-X. Stabilizer ground state: Theory, algorithms and applications, *Quantum*, **2025**.[Link](https://doi.org/10.22331/q-2025-06-24-1782)
 
-[17] **Cheng, L.**<sup>\*</sup>; Szabó, P.B.<sup>\*</sup>; Schätzle, Z.<sup>\*</sup>; Kooi, D.; Köhler, J.; Noé, F.; Gori-Giorgi, P.; Foster, A. Highly Accurate Real-space Electron Densities with Neural Networks, *J. Chem. Phys.*, **2014**.(\*co-first author)[Link](https://doi.org/10.1063/5.0236919)
+[17] Jacobson, G.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; Sun, J; Bhethanabotla, V; McCoy, A. B., Machine Learning Approaches for Developing Potential Surfaces: Applications to OH-(H2O)n (n=1-3) Complexes. *J. Phys. Chem. A*, **2025**. (\*co-first author)[Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.4c08826)
 
-[16] Sun, J.; **Cheng, L.**; Zhang, S.-X. Stabilizer ground state: Theory, algorithms and applications. arXiv: 2403.08441 (2024).[Link](https://arxiv.org/abs/2403.08441)
+[16] **Cheng, L.**<sup>\*</sup>; Szabó, P.B.<sup>\*</sup>; Schätzle, Z.<sup>\*</sup>; Kooi, D.; Köhler, J.; Noé, F.; Gori-Giorgi, P.; Foster, A. Highly Accurate Real-space Electron Densities with Neural Networks, *J. Chem. Phys.*, **2014**.(\*co-first author)[Link](https://doi.org/10.1063/5.0236919)
 
 [15] **Cheng, L.**<sup>\*</sup>; Chen, Y.-Q.<sup>\*</sup>; Zhang, S.-X.; Zhang, S. Error-mitigated quantum approximate optimization via learning-based adaptive optimization. (\*co-first author) *Commun. Phys.*, **2024**.[Link](https://www.nature.com/articles/s42005-024-01577-x)
 
