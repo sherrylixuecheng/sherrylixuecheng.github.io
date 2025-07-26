@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCheng_Resume.pdf)
-(updated in Dec, 2024)
+(updated in July, 2025)
 
 Education
 ======
