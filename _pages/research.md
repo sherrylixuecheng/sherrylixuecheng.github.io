@@ -51,7 +51,7 @@ Caltech work:
 ---
 ### AI for electronic structure: MOB-ML
 
-<img src="../images/mobml.jpg"  width="500"  align="right" /> Using information from Hartree-Fock thoery and molecular oribtal based representation to learn ground state molecular properties.
+<img src="../images/mobml.jpg"  width="500"  align="right" /> Using information from Hartree-Fock thoery and molecular oribtal based representation to learn ground state molecular properties. More upcoming research studies on this topic, please refer to my [group page](https://ai4qc.github.io)
 
 **Selected publications:**
 
