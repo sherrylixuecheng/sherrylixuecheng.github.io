@@ -11,6 +11,15 @@ author_profile: true
 {% endif %}
 
 ## Publications:
+[24] Wang, C., Huang, L., Wei, X., Qin, T., **Cheng, L.**, Zhang, J. Scalable Machine Learning Force Fields for Macromolecular Systems Through Long-Range Aware Message Passing. (In preparation, 2025).
+
+[23] Song, Z., Lu, J., Du, Y., Yu, B., Pruyn, T.M., Huang, Y., Guo, K., Luo, X., Qu, Y., Qu, Y., Wang, Y., Wang, H., Guo, J., Gan, J., Shojaee, P., Luo, D., Bran, A.M., Li, G., Zhao, Q., Luo, S.-X. L., Zhang, Y., Zou, X., Zhao, W., Zhang, Y.F., Zhang, W., Zheng, S., Zhang, S., Khan, S.T., Rajabi-Kochi, M., Paradi-Maropakis, S., Baltoiu, T., Xie, F., Chen, T., Huang, K., Luo, W., Fang, M., Yang, X., **Cheng, L.**, He, J., Hassoun, S., Zhang, X., Wang, W., Reddy, C.K., Zhang, C., Zheng, Z., Wang, M., Cong, L., Gomes, C.P., Hsieh, C.-Y., Nandy, A., Schwaller, P., Kulik, H.J., Jia, H., Sun, H., Moosavi, S.M., Duan, C. Evaluating Large Language Models in Scientific Discovery. arXiv:2512.15567. (2025). [Link](https://arxiv.org/abs/2512.15567)
+
+[22] Chen, Y., **Cheng, L.**, Jing, Y. and Zhong, P. Benchmarking a Foundation Potential against Quantum Chemistry Methods for Predicting Molecular Redox Potentials. arXiv:2510.24063. (2025). [Link](https://arxiv.org/abs/2510.24063)
+
+[21] Jacobson, G.M., Webb, A.W., **Cheng, L.**, and McCoy, A.B.  Diffusion Monte Carlo Study of the Structure and Spectroscopy of H3O-, *J. Phys. Chem. A.*, **2025** [Link](https://pubs.acs.org/doi/10.1021/acs.jpca.5c06590)
+
+[20] Simm, G.N.C., Helie, J., Schulz, H., Chen,Y., Simeon, G., Kuzina, A., Martinez-Baez, E., Gasparotto, P., Tocci, G., Chen, C., Li, Y., **Cheng, L.**, Wang, Z., Nguyen, B.H., Smith, J.A. and Sun, L. Simpoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles. arXiv:2510.13696. (2025). [Link](https://arxiv.org/abs/2510.13696)
 
 [19] Foster, A.<sup>\*</sup>; Schatzle, Z.<sup>\*</sup>; Szabo, P. B.<sup>\*</sup>; **Cheng, L.**<sup>\*</sup>; Kohler, J.; Cassella, G.; Gao, N.; Li, J. ; Noe, F.; Hermann, J. A Wavefunction Foundation Model that Accurately Describes Bond Breaking. arXiv:2506.19960. (2025). (\*co-first author) [Link](https://arxiv.org/abs/2506.19960)
 
