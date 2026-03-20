@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 The full CV is available [here](https://sherrylixuecheng.github.io/files/LixueCheng_Resume.pdf)
-(updated in July, 2025)
+(updated in Mar, 2026)
 
 Education
 ======
@@ -19,6 +19,7 @@ Work experience
 ======
 * 2025 Fall- : Assistant Professor
   * Department of Chemistry, HKUST
+  * Department of Chemical and Biological Engineering, HKUST
 
 * June 2023-June 2025: Researcher
   * Microsoft Research AI4Sci Lab, Microsoft
